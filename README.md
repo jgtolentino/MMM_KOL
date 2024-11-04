@@ -8,6 +8,12 @@
 5. [Evaluation](#evaluation)
 6. [Deployment](#deployment)
 7. [Actionable Recommendations](#actionable-recommendations)
+8. [Installation](#installation)
+9. [Usage](#usage)
+10. [Technologies Used](#technologies-used)
+11. [Contributing](#contributing)
+12. [License](#license)
+
 
 ---
 
@@ -82,6 +88,38 @@
 - Further segment channels for more detailed insights.
 - Implement A/B testing for email campaigns to identify effective strategies through data-driven experimentation.
 
----
+### 8. Installation
+To run this project, ensure that Python and the following libraries are installed:
+- `pandas`
+- `numpy`
+- `statsmodels`
+- `matplotlib`
+- `IPython`
 
-This README follows the **CRISP-DM framework**, providing a structured overview of the Marketing Mix Modeling process, with a focus on KOL Engagement’s significant contribution to conversion rates and practical recommendations for enhancing marketing strategies.
+Install the required libraries using:
+```bash
+pip install pandas numpy statsmodels matplotlib ipython
+### 9. Usage
+1. Clone this repository.
+2. Run the Jupyter Notebook or Python script.
+3. Review the output, including the regression model summary, bar chart, and Monte Carlo simulation.
+
+### 10. Technologies Used
+- **Python**: Programming language
+- **Jupyter Notebook**: For running interactive code
+- **pandas**: Data manipulation
+- **numpy**: Numerical computation
+- **statsmodels**: Building statistical models
+- **matplotlib**: Data visualization
+- **IPython.display**: For displaying HTML/Markdown content
+
+### 11. Contributing
+Contributions are welcome! If you'd like to contribute, please:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
+
+### 12. License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
