@@ -52,7 +52,7 @@
 
 ### 5. Evaluation
 **Findings**:
-- **KOL Engagement** was found to account for approximately **36.51%** of the total estimated conversion rate, positioning it as the most impactful channel.
+- **KOL Engagement** was found to account for approximately **36%** of the total estimated conversion rate, positioning it as the most impactful channel.
 - **Social Media Ads** demonstrated significant contributions as well, followed by **Email Campaigns** and **Other Channels**.
 - All variables were statistically significant, with p-values below 0.05, confirming their relevance.
 
